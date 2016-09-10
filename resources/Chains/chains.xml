@@ -1,0 +1,91 @@
+<Root>
+<chain>
+<ChainId>7290700100008</ChainId>
+<ChainName>ColBo Hazi Hinam</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290633800006</ChainId>
+<ChainName>Coop</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290492000005</ChainId>
+<ChainName>Dor Alon</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290055755557</ChainId>
+<ChainName>Eden Teva Market</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290876100000</ChainId>
+<ChainName>Fresh Market</ChainName>
+</chain>
+
+
+<chain>
+<ChainId>7290785400000</ChainId>
+<ChainName>Keshet Taamim</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290661400001</ChainId>
+<ChainName>Machsanei HaShuk</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290058179503</ChainId>
+<ChainName>Machsanei Lahav</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290055700007</ChainId>
+<ChainName>Mega</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290103152017</ChainId>
+<ChainName>Osher Ad</ChainName>
+</chain>
+
+
+<chain>
+<ChainId>7290058140886</ChainId>
+<ChainName>Rami Levi Shivuk Shikma</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290027600007</ChainId>
+<ChainName>Shufersal</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290873900009</ChainId>
+<ChainName>Super Dosh</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290803800003</ChainId>
+<ChainName>Supershuk Yohananof</ChainName>
+</chain>
+
+<chain>
+<ChainId>7290873255550</ChainId>
+<ChainName>Tiv Taam</ChainName>
+</chain>
+
+
+<chain>
+<ChainId>7290696200003</ChainId>
+<ChainName>Victory</ChainName>
+</chain>
+
+
+<chain>
+<ChainId>7290725900003</ChainId>
+<ChainName>Yeinot Bitan</ChainName>
+</chain>
+
+</Root>
